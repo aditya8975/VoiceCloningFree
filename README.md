@@ -4,6 +4,13 @@ Clone any voice for **speech** and **singing** using 100% free, local tools.
 No API keys. No subscriptions. Runs on CPU (or Colab GPU for training).
 
 ---
+![Project Home](images/homed.png)
+---
+![Project Home](images/homed.png)
+---
+![Project Home](images/homed.png)
+---
+
 
 ## What it does
 
