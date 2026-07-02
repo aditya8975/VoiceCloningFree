@@ -249,15 +249,3 @@ On CPU, synthesis takes roughly 30–120 seconds per sentence — this is expect
 not a bug.
 
 ---
-
-## Running on Colab (no local install)
-
-```python
-# In a Colab cell:
-!git clone https://your-repo/VoiceForge
-%cd VoiceForge
-!python setup.py
-!python app.py --share
-```
-
-The `--share` flag creates a public Gradio link you can open on any device.
