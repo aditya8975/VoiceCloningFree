@@ -12,9 +12,9 @@ No API keys. No subscriptions. Runs on CPU (or Colab GPU for training).
 ---
 ![Project Example](images/exv.png)
 ---
-##Demo(Piyush Mishra Voice Cloning)
+## 🔊 Voice Demo 
 
-🎧 [Listen to the voice sample](images/voice.mp3)
+🎧 **Listen to the demo (eg. Piyush Mishra Voice clone):** [voice-demo.mp3](./images/voice-demo.mp3)
 
 ---
 ## What it does
