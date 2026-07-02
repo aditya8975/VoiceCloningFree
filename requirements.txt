@@ -1,0 +1,104 @@
+# =====================================
+# VoiceForge Stable Windows Python 3.10
+# XTTS v2 + Melo + OpenVoice + RVC
+# =====================================
+
+# UI
+gradio>=4.0,<7.0
+
+
+# ==========================
+# Audio
+# ==========================
+
+soundfile==0.12.1
+librosa==0.11.0
+pydub
+ffmpeg-python
+
+
+# ==========================
+# Numerical
+# ==========================
+
+numpy==1.26.4
+scipy
+numba
+
+
+# ==========================
+# PyTorch CPU
+# ==========================
+
+torch==2.5.1
+torchaudio==2.5.1
+torchvision==0.20.1
+
+
+# Torchcodec matching
+torchcodec==0.14.0
+
+
+
+# ==========================
+# Coqui XTTS v2
+# ==========================
+
+coqui-tts==0.27.5
+
+
+# IMPORTANT
+# Coqui 0.27.5 needs these
+transformers==4.57.1
+tokenizers==0.22.0
+huggingface-hub==0.36.2
+
+
+# Japanese phonemizer
+fugashi
+unidic-lite
+unidic
+cutlet
+
+
+
+# ==========================
+# MeloTTS / OpenVoice
+# ==========================
+
+openvoice-cli==0.0.5
+
+git+https://github.com/myshell-ai/MeloTTS.git
+
+num2words==0.5.12
+
+
+
+# ==========================
+# RVC
+# ==========================
+
+faiss-cpu
+fairseq
+omegaconf
+Cython
+
+
+# ==========================
+# Demucs
+# ==========================
+
+demucs
+
+
+# ==========================
+# Utils
+# ==========================
+
+tqdm
+requests
+pyyaml
+matplotlib
+typing-extensions
+webrtcvad
+typing
